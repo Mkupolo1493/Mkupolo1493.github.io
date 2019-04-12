@@ -1,0 +1,95 @@
+body {
+	background-image: linear-gradient(90deg, #440, #cc0);
+}
+#more {
+	cursor: url(IMG/add.gif), zoom-in;
+	background-color: #0f0;
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+	color: #ff00ff;
+	padding: 10px 20px;
+}
+#less {
+	cursor: url(IMG/remove.gif), zoom-out;
+	background-color: #f00;
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+	color: #00ffff;
+	padding: 10px 20px;
+}
+.link {
+	cursor: url(IMG/mac10_icon.png), crosshair;
+	background-color: #494;
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+	color: #949;
+	padding: 10px 20px;
+	text-align: center; 
+	text-decoration: none;
+	display: inline-block;
+}
+.url:not(input) {
+	cursor: url(IMG/wgp.png), copy;
+	background-color: #699;
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+	color: #966;
+	padding: 10px 20px;
+}
+.safe {
+	cursor: url(IMG/think_icon.png), pointer;
+	background-color: #00f;
+	font-family: monospace;
+	font-size: 20px;
+	font-weight: bold;
+	color: #ff0;
+	padding: 10px 20px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+}
+input {
+	border: 10px ridge #0f0;
+	height: 7mm;
+	font-size: 5mm;
+}
+#tooltip {
+	display: none;
+}
+#inputhold:hover #tooltip {
+	display: inline;
+	background-color: #4947;
+	font-size: 15px;
+	font-family: Helvetica, sans-serif;
+}
+input:focus {
+	border-style: groove;
+	background-color: #ccf;
+}
+#portrait-landscape {
+	background-color: #aaf7;
+	cursor: url(IMG/fscreen.png), all-scroll;
+}
+@media screen and (min-width: 7in) {
+	#portrait-landscape {
+		display: none;
+	}
+}
+.status {
+	font-family: 'Courier New', Courier, monospace;
+	font-weight: 600;
+	font-size: 1.25em;
+	text-align: center;
+}
+.fail {
+	color: red;
+	background-color: #f005;
+}
+.success {
+	color: #0f0;
+	background-color: #0f05;
+}

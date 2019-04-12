@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>PROSIX</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+	<link rel="icon" type="image/png" sizes="192x192"  href="IMG/FV/android-icon-192x192.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="IMG/FV/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="96x96" href="IMG/FV/favicon-96x96.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="IMG/FV/favicon-16x16.png" />
+	<link href="IMG/FV/favicon.ico" rel="shortcut icon" type="image/x-icon" />
+	<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+  </head>
+  <body>
+	<a href="https://www.chess.com" class="safe">Chess</a>
+	<a href="https://www.colorhexa.com" class="safe">ColorHexa</a>
+	<a href="https://www.edutyping.com" class="safe">Edutyping</a>
+	<a href="https://www.kahoot.com" class="safe">Kahoot!</a>
+	<a href="https://www.nitrotype.com" class="safe">NitroType</a>
+	<div id="inputhold"><input type="password" id="passwd" onkeyup="if(event.keyCode===13){document.getElementById('more').click();}" /><button onclick="prompted()" id="more">More&gt;&gt;</button><br /><span id="tooltip">Press [RETURN] to submit, or press (More&gt;&gt;).</span></div>
+	<button onclick="remove()" id="less">Less&lt;&lt;</button>
+    <script src="script.js"></script>
+	<div id="portrait-landscape">Please go full screen for a better experience by viewing this in 5282--3941drib.repl.co and pressing the 'Go Fullscreen!' button.</div>
+  </body>
+</html>
