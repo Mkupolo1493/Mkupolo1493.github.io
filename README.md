@@ -8,7 +8,7 @@ Originally developed on repl.it, REPLNET is a web of sites, the most famous of w
 ### What are `<iframe>`s?
 An `<iframe>` is an HTML tag which basically open a webpage inside another webpage.
 Try this out:
-`<!DOCTYPE html>
+`<!DOCTYPE html&gt;
 <html lang="en-us">
 <head>
 <title>iframe test</title>
