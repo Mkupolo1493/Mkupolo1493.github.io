@@ -7,7 +7,7 @@ Originally developed on repl.it, REPLNET is a web of sites, the most famous of w
 + Visit [The Original REPLNET](https://repl.it)
 ### What are `<iframe>`s?
 An `<iframe>` is an HTML tag which basically open a webpage inside another webpage.
-Make an `<iframe>` tag with width of 100%, height of 100%, and src of "[https://krunker.io]". Have fun playing Krunker! When you're ready to code again, please ~~call me~~ install Securly or another page blocker extension. Try it again, and it will still work. However, you can't just open [https://krunker.io] in a new tab, because the page blocker will block the game.
+Make an `<iframe>` tag with width of 100%, height of 100%, and src of "[https://krunker.io](https://krunker.io)". Have fun playing Krunker! When you're ready to code again, please ~~call me~~ install Securly or another page blocker extension. Try it again, and it will still work. However, you can't just open [krunker.io](https://krunker.io) in a new tab, because the page blocker will block the game.
 ###### That is how `<iframe>` exploitation works.
 ### How does it work behind the scenes?
 Nice question. It doesn't matter where the page comes from. It can come from google.com, repl.it, cssdesk.com, github.com, localhost or pretty much anything that isn't blacklisted. Here is what happens:
