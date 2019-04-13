@@ -8,16 +8,16 @@ Originally developed on repl.it, REPLNET is a web of sites, the most famous of w
 ### What are `<iframe>`s?
 An `<iframe>` is an HTML tag which basically open a webpage inside another webpage.
 Try this out:
-`<!DOCTYPE html>
-&lt;html lang="en-us">
-<head>
-<title>iframe test</title>
-<meta charset="utf-8">
-</head>
-<body>
-<iframe width="100%" height="100%" src="https://github.com">Your browser does not support iframes. Sorry! :(</iframe>
-</body>
-</html>`
+`&lt;!DOCTYPE html&gt;
+&lt;html lang="en-us"&gt;
+&lt;head&gt;
+&lt;title&gt;iframe test&lt;/title&gt;
+&lt;meta charset="utf-8"&gt;
+&lt;/head&gt;
+&lt;body&gt;
+&lt;iframe width="100%" height="100%" src="https://github.com"&gt;Your browser does not support iframes. Sorry! :(&lt;/iframe&gt;
+&lt;/body&gt;
+&lt;/html&gt;`
 Next, try installing Securly or another site protection extension for Google Chrome, and replace the src attribute with this:
 `src="https://krunker.io"`
 Magic! It'll work! But just entering `krunker.io` in your browser will open an annoying `Page Blocked by Securly` page.
