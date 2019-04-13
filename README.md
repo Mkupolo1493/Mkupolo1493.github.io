@@ -15,3 +15,4 @@ Nice question. It doesn't matter where the page comes from. It can come from goo
 2. You send input to the `<iframe>`. Your computer sends the information about your input to the server, and the server sends the input to the blocked server.
 3. The server that gave you the web page is now the middleman between you and the blocked page. If you make it fullscreen, it will look to you like you're directly interacting with the page, minus the lag, but Securly (or another *stupid and annoying* page blocker) will only see, for example, cssdesk.com.
 ## Again, thank you for visiting REPLNET on GitHub. Press [here](https://Mkupolo1493.github.io/436/index.html) to leave this page and do something ~~useful~~ fun.
+## Lastly, *PLEASE DELETE SECURLY!*
