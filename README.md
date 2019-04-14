@@ -4,7 +4,7 @@
 Originally developed on repl.it, REPLNET is a web of sites, the most famous of which is 5282, which gives fullscreen functions and much more. 5282 works by `<iframe>` exploitation.
 ### Now, you have three choices:
 + Stay here, on Mkupolo1493.github.io
-+ Visit [The Original REPLNET](https://repl.it/@3941driB/HTMLFRP) and open it in a new tab, or press [here](https://HTMLFRP--3491drib.repl.co)
++ Visit [The Original REPLNET](https://repl.it/@3941driB/HTMLFRP) and open it in a new tab, or press [here](https://htmlfrp--3941drib.repl.co)
 + Visit [5282 on repl.co](https://5282--3941drib.repl.co)
 ### What are `<iframe>`s?
 An `<iframe>` is an HTML tag which basically open a webpage inside another webpage. Try this out:
