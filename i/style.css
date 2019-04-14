@@ -1,0 +1,23 @@
+body {
+	background-image: url(bg.png);
+}
+p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1.25em;
+	font-weight: 900;
+}
+a {
+	text-decoration: none;
+}
+a:visited {
+	color: green;
+}
+a:hover {
+	text-decoration-line: underline;
+}
+#out {
+	color: #b380cc;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 3em;
+	font-weight: 900;
+}
