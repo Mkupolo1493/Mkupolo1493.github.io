@@ -1,0 +1,32 @@
+body {
+	background-color: #bea;
+}
+#out {
+	color: #dae;
+	margin-bottom: 3mm;
+	font-size: 3.1415926535em; /* LOL 1st 10 digits of pi */
+}
+#info {
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	font-size: 1.4142135623em; /* 1st 10 digits of sqrt(2) */
+	text-indent: 2em;
+}
+#passwd {
+	padding: 10px;
+	border: solid #f00;
+	margin-right: 10px;
+}
+#passwd:focus {
+	background-color: #f88;
+}
+a {
+	position: fixed;
+	bottom: 70px;
+}
+button {
+	border: solid darkblue;
+	border-radius: 4px;
+	background-color: blue;
+	color: aqua;
+	padding: 10px;
+}
