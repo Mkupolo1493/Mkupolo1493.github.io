@@ -1,0 +1,36 @@
+body {
+	background-color: #cff;
+}
+button {
+	background-color: #fcc;
+	border-color: #fcc;
+}
+button.passwd {
+	background-color: #ccc;
+	border: #aaa solid 2px;
+}
+#passwd {
+	border: solid black 4px;
+	background-color: #cff;
+	padding: 1em;
+	font-size: 1.5em;
+}
+#passwd:focus {
+	border-color: #99f;
+}
+a {
+	display: inline-block;
+	padding: 0.5em;
+	font-size: 1.493em;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #cff;
+	border: 1px solid cadetblue;
+	text-decoration: none;
+	margin: 25px;
+}
+a:visited {
+	color: blue;
+}
+.mono {
+	font-family: monospace;
+}
