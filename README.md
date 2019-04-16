@@ -7,7 +7,7 @@ Originally developed on repl.it, REPLNET is a web of sites, the most famous of w
 + Visit [The Original REPLNET](https://repl.it/@3941driB/HTMLFRP) and open it in a new tab, or press [here](https://htmlfrp--3941drib.repl.co)
 + Visit [5282 on repl.co](https://5282--3941drib.repl.co)
 ### What are `<iframe>`s?
-An `<iframe>` is an HTML tag which basically open a webpage inside another webpage. Try this out:
+An `<iframe>` is an HTML tag which basically opens a webpage inside another webpage. Try this out:
 1. [Google](https://www.google.com/?safe=active&ssui=on) about how `<iframe>`s work.
 2. Make an `<iframe>` tag with width of 100%, height of 100%, and src of "[https://krunker.io](https://krunker.io)".
 3. Have fun playing Krunker!
